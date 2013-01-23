@@ -5,6 +5,7 @@
   <groupId>org.wso2.af</groupId>
   <artifactId>dimapp3</artifactId>
   <version>SNAPSHOT</version>
+
   <packaging>war</packaging>
   <name>dimapp3 Maven Webapp and things</name>
   <url>http://maven.apache.org</url>
